@@ -44,6 +44,15 @@ header h1 {
     color: silver;
 }
 
+footer h4 {
+    position: relative;
+    margin-left: 12%;
+    background-color: black;
+    display: inline;
+    text-align: center;
+    color: silver;
+}
+
 
 header .link {
     color: white;
