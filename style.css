@@ -8,16 +8,6 @@ html {
     background-repeat: repeat;
 } */
 
-#homeTitle {
-    /* grid-area: homeTitle; */
-    /* background-color: red; */
-    width: 500px;
-    /* position: relative; */
-    /* top: 50%; */
-    text-align: center;
-    margin: 100% 0 0 180%;
-}
-
 button {
     padding: 10px 30px 10px 30px;
     border-radius: 10px;
